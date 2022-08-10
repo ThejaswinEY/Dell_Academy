@@ -11,8 +11,8 @@ namespace Thejaswin_StringOperation
             Console.WriteLine(name);
             Console.WriteLine(name.Length);
             Console.WriteLine(name.ToUpper());
-            Console.WriteLine(string.Concat(name,name2)); 
-
+            Console.WriteLine(string.Concat(name,name2));
+            Console.WriteLine(name.Contains("T"));
             
         }
     }
