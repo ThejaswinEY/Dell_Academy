@@ -1,0 +1,15 @@
+C:\Dell_Academy\10_Aug\Thejaswin_StringOperation\Thejaswin_StringOperation\bin\Debug\net6.0\Thejaswin_StringOperation.exe
+C:\Dell_Academy\10_Aug\Thejaswin_StringOperation\Thejaswin_StringOperation\bin\Debug\net6.0\Thejaswin_StringOperation.deps.json
+C:\Dell_Academy\10_Aug\Thejaswin_StringOperation\Thejaswin_StringOperation\bin\Debug\net6.0\Thejaswin_StringOperation.runtimeconfig.json
+C:\Dell_Academy\10_Aug\Thejaswin_StringOperation\Thejaswin_StringOperation\bin\Debug\net6.0\Thejaswin_StringOperation.dll
+C:\Dell_Academy\10_Aug\Thejaswin_StringOperation\Thejaswin_StringOperation\bin\Debug\net6.0\Thejaswin_StringOperation.pdb
+C:\Dell_Academy\10_Aug\Thejaswin_StringOperation\Thejaswin_StringOperation\obj\Debug\net6.0\Thejaswin_StringOperation.csproj.AssemblyReference.cache
+C:\Dell_Academy\10_Aug\Thejaswin_StringOperation\Thejaswin_StringOperation\obj\Debug\net6.0\Thejaswin_StringOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dell_Academy\10_Aug\Thejaswin_StringOperation\Thejaswin_StringOperation\obj\Debug\net6.0\Thejaswin_StringOperation.AssemblyInfoInputs.cache
+C:\Dell_Academy\10_Aug\Thejaswin_StringOperation\Thejaswin_StringOperation\obj\Debug\net6.0\Thejaswin_StringOperation.AssemblyInfo.cs
+C:\Dell_Academy\10_Aug\Thejaswin_StringOperation\Thejaswin_StringOperation\obj\Debug\net6.0\Thejaswin_StringOperation.csproj.CoreCompileInputs.cache
+C:\Dell_Academy\10_Aug\Thejaswin_StringOperation\Thejaswin_StringOperation\obj\Debug\net6.0\Thejaswin_StringOperation.dll
+C:\Dell_Academy\10_Aug\Thejaswin_StringOperation\Thejaswin_StringOperation\obj\Debug\net6.0\refint\Thejaswin_StringOperation.dll
+C:\Dell_Academy\10_Aug\Thejaswin_StringOperation\Thejaswin_StringOperation\obj\Debug\net6.0\Thejaswin_StringOperation.pdb
+C:\Dell_Academy\10_Aug\Thejaswin_StringOperation\Thejaswin_StringOperation\obj\Debug\net6.0\Thejaswin_StringOperation.genruntimeconfig.cache
+C:\Dell_Academy\10_Aug\Thejaswin_StringOperation\Thejaswin_StringOperation\obj\Debug\net6.0\ref\Thejaswin_StringOperation.dll
